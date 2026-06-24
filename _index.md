@@ -40,8 +40,9 @@
 | 🧠 现代AI应用的工程本质 | `ai-engineering`, `control-flow`, `architecture` |
 | 🛠️ Kun 能力清单 | `reference`, `kun-capabilities`, `workflow` |
 | 📚 **NovelWizard** (`Resources/NovelWizard/`) | 目录 | `novel-wizard` |
-| &emsp;└ 项目深度分析 | `project-analysis`, `architecture` |
-| &emsp;└ Agent 对话壳层分析 | `chat-shell-ui`, `agent`, `ui` |
+| &emsp;├ 项目深度分析 | `project-analysis`, `architecture` |
+| &emsp;├ Agent 对话壳层分析 | `chat-shell-ui`, `agent`, `ui` |
+| &emsp;└ AutoGPT 平台分析 | `autogpt`, `comparison`, `agent-platform` |
 | 🌀 项目宏观分析框架（Vibe Coding 视角） | `vibe-coding`, `methodology`, `ai-native` |
 
 ## 🗄️ Archives — 归档（已完结的内容）
