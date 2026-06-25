@@ -31,8 +31,9 @@
 | DeepSeek GUI 体检报告 | `deepseek-gui`, `health-check`, `system` |
 | 🎨 VobeCoding 知识专题 | `vobecoding`, `creative`, `techniques` |
 | 🎮 没事干指南 | `life`, `fun`, `creativity`, `hobbies` |
-| 🇯🇵 日语学习框架 | `japanese`, `language-learning`, `study` |
-| 📋 N5 日语学习计划 | `japanese`, `n5`, `study-plan`, `jlpt` |
+| 📚 **日语学习** (`Areas/日语学习/`) | 目录 | `japanese` |
+| &emsp;├ 框架 | `language-learning`, `study` |
+| &emsp;└ N5 学习计划 | `n5`, `study-plan`, `jlpt` |
 
 ## 📚 Resources — 资源（兴趣/参考素材）
 | 条目 | 标签 |
