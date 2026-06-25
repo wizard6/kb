@@ -30,7 +30,8 @@
 |------|------|
 | DeepSeek GUI 体检报告 | `deepseek-gui`, `health-check`, `system` |
 | 🎨 VobeCoding 知识专题 | `vobecoding`, `creative`, `techniques` |
-| 🎮 我们都能做什么 | `life`, `fun`, `creativity`, `ideas` |
+| 🎮 没事干指南 | `life`, `fun`, `creativity`, `hobbies` |
+| 🇯🇵 日语学习框架 | `japanese`, `language-learning`, `study` |
 
 ## 📚 Resources — 资源（兴趣/参考素材）
 | 条目 | 标签 |
