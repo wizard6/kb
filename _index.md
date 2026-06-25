@@ -32,6 +32,7 @@
 | 🎨 VobeCoding 知识专题 | `vobecoding`, `creative`, `techniques` |
 | 🎮 没事干指南 | `life`, `fun`, `creativity`, `hobbies` |
 | 🇯🇵 日语学习框架 | `japanese`, `language-learning`, `study` |
+| 📋 N5 日语学习计划 | `japanese`, `n5`, `study-plan`, `jlpt` |
 
 ## 📚 Resources — 资源（兴趣/参考素材）
 | 条目 | 标签 |
