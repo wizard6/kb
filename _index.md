@@ -30,6 +30,7 @@
 |------|------|
 | DeepSeek GUI 体检报告 | `deepseek-gui`, `health-check`, `system` |
 | 🎨 VobeCoding 知识专题 | `vobecoding`, `creative`, `techniques` |
+| 🎮 我们都能做什么 | `life`, `fun`, `creativity`, `ideas` |
 
 ## 📚 Resources — 资源（兴趣/参考素材）
 | 条目 | 标签 |
@@ -39,6 +40,8 @@
 | 🧬 Soul 人格设定 | `soul`, `personality`, `tone` |
 | 🧠 现代AI应用的工程本质 | `ai-engineering`, `control-flow`, `architecture` |
 | 🛠️ Kun 能力清单 | `reference`, `kun-capabilities`, `workflow` |
+| 🗂️ 个人词汇表 | `vocabulary`, `glossary`, `personal` |
+| 🏛️ 原生文明 | `civilization`, `native-culture`, `research` |
 | 📚 **NovelWizard** (`Resources/NovelWizard/`) | 目录 | `novel-wizard` |
 | &emsp;├ 项目深度分析 | `project-analysis`, `architecture` |
 | &emsp;├ Agent 对话壳层分析 | `chat-shell-ui`, `agent`, `ui` |
