@@ -42,6 +42,7 @@
 | 🌐 收藏夹 | `bookmarks`, `favorites`, `links` |
 | 🧬 Soul 人格设定 | `soul`, `personality`, `tone` |
 | 🧠 现代AI应用的工程本质 | `ai-engineering`, `control-flow`, `architecture` |
+| 📖 拆书指南 | `reading`, `methodology`, `book-analysis` |
 | 🛠️ Kun 能力清单 | `reference`, `kun-capabilities`, `workflow` |
 | 🗂️ 个人词汇表 | `vocabulary`, `glossary`, `personal` |
 | 🏛️ 原生文明 | `civilization`, `native-culture`, `research` |
